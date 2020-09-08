@@ -1,0 +1,2 @@
+INSERT INTO restaurants (name, distance, category, stars_rating, favorite_dish, takeout, ate_last)
+  VALUES ('Funky Taco', 5, 'mexican', '***', 'chicken taco', true, NULL), ('Diablo & Sons', 4, 'tapas', '***', 'chimichurra', false, NULL), ('Juniper', 3, 'pub food', '****', 'pub fries', true, NULL);
